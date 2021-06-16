@@ -1,2 +1,0 @@
-# meuminer
-xmr
